@@ -19,7 +19,7 @@ Founded the first VC-backed AI talent marketplace for the games industry. Built 
 Led teams on content and publishing products used by 500M+ members. Architected Pulse Comments, which unified several legacy comment systems, and shipped Publishing 2.0, LinkedIn's long-form editor.
 
 **Earlier** · 2011–2014
-Engineering manager at Ritter Insurance Marketing and lead engineer at Nanacast, building API-driven web platforms.
+Engineering manager building API-driven web platforms.
 
 ## Open source
 
@@ -30,4 +30,4 @@ I also ran the largest AngularJS group on LinkedIn from 2013 to 2017.
 
 ## Find me
 
-[LinkedIn](https://www.linkedin.com/in/austinanderson1) · [spec.ojcp.dev](https://spec.ojcp.dev)
+[LinkedIn](https://www.linkedin.com/in/austinanderson1) · [X](https://x.com/1austinanderson) · [spec.ojcp.dev](https://spec.ojcp.dev)
